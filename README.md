@@ -33,5 +33,5 @@ pytest -s --alluredir allure-results mazila.py
 |Главная страница отчета| Подробности |
 |----------------------|------------------------|
 | ![Главная страница отчета](![image](https://github.com/VsevolodYatsuk/allure-report/assets/130091517/b9e8a3c1-e795-487f-80ef-33751ad6cd8d)
-) | ![Подробности](![image](https://github.com/VsevolodYatsuk/allure-report/assets/130091517/01f899f8-8b73-4fec-933d-d4bef2d4e5d1)
-) |
+| ![Подробности](![image](https://github.com/VsevolodYatsuk/allure-report/assets/130091517/01f899f8-8b73-4fec-933d-d4bef2d4e5d1)
+
