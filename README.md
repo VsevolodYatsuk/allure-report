@@ -30,8 +30,9 @@ pytest -s --alluredir allure-results mazila.py
 ```
 
 ## Скриншоты
-|Главная страница отчета| Подробности |
+| До выполнения теста | После выполнения теста |
 |----------------------|------------------------|
-| ![Главная страница отчета](![image](https://github.com/VsevolodYatsuk/allure-report/assets/130091517/b9e8a3c1-e795-487f-80ef-33751ad6cd8d)
-| ![Подробности](![image](https://github.com/VsevolodYatsuk/allure-report/assets/130091517/01f899f8-8b73-4fec-933d-d4bef2d4e5d1)
+| ![До выполнения теста](![image](https://github.com/VsevolodYatsuk/allure-report/assets/130091517/8fb65d3b-d361-4729-beec-57f57568eaba)
+) | ![После выполнения теста](![image](https://github.com/VsevolodYatsuk/allure-report/assets/130091517/3aa7ecb8-36b8-4e85-89c5-ad0819c7cef9)
+) |
 
